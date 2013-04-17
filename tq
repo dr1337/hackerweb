@@ -1,0 +1,3168 @@
+[33mcommit 9d8725f47c37beb9bcb628f90f6d1e5282761f6a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 16 22:45:03 2013 +0800
+
+    Bump appcache
+
+[33mcommit 8df4b17d6695fbf0f4f0cdd3a94dab98235e4a24[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 16 22:44:46 2013 +0800
+
+    Uglify the JS
+
+[33mcommit d1d9ac1eba28acf18fa9dee75b4ffed8377b8782[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 16 22:44:35 2013 +0800
+
+    Add one more API endpoint
+
+[33mcommit df9018040f1bae6b5738c015f1eb07e12fc695de[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 16 22:37:22 2013 +0800
+
+    Update grunt modules
+
+[33mcommit 15ab57b30d95377e35c8d5e2d8f01ce9ae7f20ba[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Apr 10 08:19:36 2013 +0800
+
+    Bump appcache
+
+[33mcommit f2eb28b82d4a72d65a28237002b4135816d02053[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Apr 10 08:19:30 2013 +0800
+
+    Uglify JS files
+
+[33mcommit 4ed5db4a47e0377db47b00a1b5ded1d0004c3898[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Apr 10 08:18:02 2013 +0800
+
+    Fix error when str is not passed
+
+[33mcommit 6934e772a6cf0bb71c3bcf1919bcfc67ac70a19f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 9 22:44:45 2013 +0800
+
+    Bump appcache
+
+[33mcommit ccbfd348ad739cb65020b7e36eef255d8a3aa793[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 9 22:44:14 2013 +0800
+
+    Set max line length to 500, create line breaks to make it easier
+    to debug from error logs
+
+[33mcommit e04c92f4497e7fcabca8230b9c899bba128d95f6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 9 22:42:25 2013 +0800
+
+    Report the original and minified file sizes
+
+[33mcommit d29e19c7d6c92e721e2191724f5074c37ac7f4f5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 9 22:42:04 2013 +0800
+
+    Get rid of trailing comma in templates.js
+
+[33mcommit 9243a8faa83d83e7c9b6bbfb63be742ead322b4b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 8 22:46:33 2013 +0800
+
+    Bump appcache
+
+[33mcommit 96d7c08ffb1301857de9c61489420b5c1e9d1499[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 8 22:45:49 2013 +0800
+
+    Uglify the JS files
+
+[33mcommit 72e128e3c292238bb1381f94faf544a4f8d14a48[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 8 22:30:32 2013 +0800
+
+    Fix small JS warnings and remove unused variables
+
+[33mcommit 914e1ee2cfc68a280e79d91416ebe8dd6901c035[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 8 22:29:46 2013 +0800
+
+    Update tappable
+
+[33mcommit 0f1a51c6f0c22b698c2851ee8cbd886c8830b83f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 8 20:49:34 2013 +0800
+
+    Port existing tasks to Grunt, and add a task to watch folder for changes
+
+[33mcommit 6218fa8468a8880edb7457802887265cd5754199[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 7 23:08:34 2013 +0800
+
+    Point to HTTPS
+
+[33mcommit dbfb328b743616b1bca0198698ca13dd6fa8ee1b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 7 23:07:59 2013 +0800
+
+    Update classList.js
+
+[33mcommit d50dbcc45d8e848befb976975871d8542c6e9835[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:51:18 2013 +0800
+
+    Uglify the JS files
+
+[33mcommit 66b38af5658d36b54ea3c6c1b2d8b9d83bc67f1e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:51:02 2013 +0800
+
+    Better shuffling for API urls
+
+[33mcommit 23f55bd6eddd669495f66a7ecc2216372a1847b5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:50:03 2013 +0800
+
+    Add back Heroku, seems working now 0_o
+
+[33mcommit 72909fd3c58b82e3b3cc619112a1549d50dbbdd8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:27:30 2013 +0800
+
+    Bump appcache
+
+[33mcommit 2ad1c7ef28a05aa4a916b21fcbc9d82f9b288705[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:27:08 2013 +0800
+
+    Uglify JS files
+
+[33mcommit edebb7d86b10860d6c3558e1b44d9a2d49c3c756[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:25:13 2013 +0800
+
+    Better document titles
+
+[33mcommit bcca4ed78e87cb764e79467f1604bd19b24be37e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 6 11:21:56 2013 +0800
+
+    Include the new github.io domain
+
+[33mcommit cfe0fd9ddfe073552964346c4dbe831f6442aec9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 1 22:59:15 2013 +0800
+
+    Bump appcache
+
+[33mcommit 21b474f5035c97cf0b8c43b9bb8425ef513c0968[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 1 22:58:50 2013 +0800
+
+    Remove Appfog servers, add Azure's
+
+[33mcommit 8b32998c0b5bb01c3cef6423c8e8cc61508664db[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 23:09:24 2013 +0800
+
+    Minified the wrong file, now fixed
+
+[33mcommit 149cee3b94fa3f8afde99fe0f92d3174c9aea3b9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 23:02:58 2013 +0800
+
+    Bump appcache
+
+[33mcommit a5fa13e333a6fcca6ef35a1b940b0e7bce9d3292[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 22:58:04 2013 +0800
+
+    Update all the paths in appcache
+
+[33mcommit be14dcd2a066cd9feb5514e425cf9c0aecdb7b50[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 22:57:27 2013 +0800
+
+    Update README to reflect latest changes
+
+[33mcommit 6473351fbf18e5f6b5b82e21a1846485d2849e51[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 22:15:18 2013 +0800
+
+    s/hn/hw
+
+[33mcommit fc0a8206641b18ea10563a4715fee8e72f407f95[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:59:54 2013 +0800
+
+    Still need this sourceMapRoot
+
+[33mcommit 8f7caf212862c0c8841b5e35e57d275485760fd3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:51:08 2013 +0800
+
+    Reuglify JS files
+
+[33mcommit 7538a552239bcf9cf8b3872e07c788c69ce8eb10[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:50:45 2013 +0800
+
+    Set timeout to 20s for AJAX calls
+
+[33mcommit 9a78544fd599594bab9dc2f7d7f7529b6b041014[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:41:22 2013 +0800
+
+    Script minification files no longer needed, moved to Gruntjs as a task
+
+[33mcommit 75b4e24190cfc2c075cb1616fe7f4b535516e7bb[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:40:14 2013 +0800
+
+    Reuglify JS files
+
+[33mcommit 6a9ae86236c2b99f1e9a60aae8f0d2fdceba67a3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 19:39:22 2013 +0800
+
+    Reorganize the API URLs, due to the Heroku server no longer working
+    
+    Implemented a simple client-side load balancer here
+
+[33mcommit 20c87ff17c985867deed1c4b8ce0b2cc92474134[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 18:42:26 2013 +0800
+
+    Only initiate Raven when on production
+
+[33mcommit 0b9b8b9778c89aef21960a7052ac0daf816fdf6c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 23 18:41:53 2013 +0800
+
+    A few code fixes thanks to jshint
+
+[33mcommit 5cc5ed4b60c62c005049de70756bb063f9cfafdc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Mar 18 23:19:46 2013 +0800
+
+    Reorganize *all* assets and rename 'hn' to 'hw'
+
+[33mcommit 8402938e3f22170f216f3e623fc8d4f616756bc1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 17 22:05:20 2013 +0800
+
+    Bump appcache, and remove scripts.js and templates.js
+
+[33mcommit 1eef35523d4503c0105e2274f9985fce1724655a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 17 22:03:53 2013 +0800
+
+    Use Grunt & UglifyJS2 to generate all JS with source maps.
+    
+    At the same time, simplify 'make-templates.js' and merge
+    'scripts-', 'scripts' and 'templates' into one.
+
+[33mcommit 3f85f8bcbdfa035567b9933d6c48b56ad52791e8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 17 21:59:36 2013 +0800
+
+    Fix some browsers reporting e.type is undefined
+
+[33mcommit c4ee8136bbd8f3186ab8722de20cb0fadc463f9d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 17 21:57:34 2013 +0800
+
+    Remove Muscula.
+
+[33mcommit 98aa2edaba407be99834bf5b299a04f1fe45d0c3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:44:16 2013 +0800
+
+    Add the design source files
+
+[33mcommit b9888df0016873a300a229b166982893aadcd917[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:43:44 2013 +0800
+
+    Bump appcache
+
+[33mcommit 8d71e2a553f6638304f4700bfd27b7932e6d5210[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:39:58 2013 +0800
+
+    Try out Sentry for error logging
+
+[33mcommit 521aa35829977b75336dcfd3e256b14b006d7f3d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:38:50 2013 +0800
+
+    Update all the libs
+
+[33mcommit ff8e987382db14454efbb45d7e3f4b744bce27da[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:22:39 2013 +0800
+
+    Add comment permalinks
+
+[33mcommit 5e641fc265b2806c6d53e49022f989112f7f5046[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 19:07:57 2013 +0800
+
+    Revert "Open HN links inside the app instead of redirecting to news.ycombinator.com."
+    
+    Not all HN ?item=ID links work on HackerWeb. Too bad HN use the same link
+    structure for all types of content (poll, story, comment)
+    
+    This reverts commit cc8b86ad319e0f59fde4c9de09c021f8bb8d441e.
+
+[33mcommit 747f314e1a01f33349ecd9cc63d95da4be2cc263[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 18:54:06 2013 +0800
+
+    Make text selectable for story text and polls
+
+[33mcommit 0bedfd7f92cedec0eb995a4c51d0981e421b69c4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 14:45:22 2013 +0800
+
+    Minify scripts
+
+[33mcommit 87f4f5de7f00eae113d352fabd3629b1e7149869[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 10 14:40:07 2013 +0800
+
+    Remove modulus.io
+
+[33mcommit 7e0f769e40e59ae29e7c5743808387c4eecdd843[m
+Merge: 845e269 75762fd
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 9 22:36:32 2013 -0800
+
+    Merge pull request #14 from nfvs/redirect_internal_links
+    
+    Open HN links inside the app instead of redirecting to news.ycombinator....
+
+[33mcommit 845e2691f68af592484ec9a73fa3c45a3d555d58[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Feb 5 23:20:57 2013 +0800
+
+    Add link to bookmarklet by @duncansmart
+
+[33mcommit 75762fd5cc40b954cbf6893d65e62e76910fa9bc[m
+Author: Nuno Santos <nunofvsantos@gmail.com>
+Date:   Wed Jan 30 14:03:23 2013 +0100
+
+    Fixed extra whitespace.
+
+[33mcommit cc8b86ad319e0f59fde4c9de09c021f8bb8d441e[m
+Author: Nuno Santos <nunofvsantos@gmail.com>
+Date:   Wed Jan 30 13:34:20 2013 +0100
+
+    Open HN links inside the app instead of redirecting to news.ycombinator.com.
+
+[33mcommit 73c3fe30ecc3ab4e6303984e70932c4459a20bb1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jan 27 23:44:57 2013 +0800
+
+    Bump appcache
+
+[33mcommit 0a38be01d500db0c8f5cec241045406caf590905[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jan 27 17:37:44 2013 +0800
+
+    Also track how many visits/browsers that don't support appcache
+
+[33mcommit 27008af15bf944b249ba1a94035ae31466077fae[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jan 27 17:33:24 2013 +0800
+
+    Upgrade to UglifyJS 2.0
+
+[33mcommit 985c3e85dae351071c84279cb054a4207b3e75ba[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jan 27 14:48:42 2013 +0800
+
+    Fix hnapi not handling errors and API not falling back to other servers
+
+[33mcommit 31c0fbfecb6945e4a585f9e03d0a064124d60753[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jan 24 22:44:26 2013 +0800
+
+    Add link to HN Faq page and change the text a little
+
+[33mcommit 2bf0636d9783c5eb5415016d26797f4ebd933b79[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jan 24 22:43:42 2013 +0800
+
+    Add API hosted on modulus.io
+
+[33mcommit 895b4f971855d3df4017bd7c71fdcec0dee30bd0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jan 24 22:42:56 2013 +0800
+
+    Add apple-mobile-web-app-title meta tag
+    
+    Introduced in iOS6, more info: http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers
+
+[33mcommit 6bc005cc36f158e720b542bed77d1d765fb205a3[m
+Merge: aad3cd7 63a3755
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jan 15 18:19:09 2013 -0800
+
+    Merge pull request #13 from imcotton/patch-1
+    
+    No need webkit-text-size-adjust:none for web theme
+
+[33mcommit 63a37557ea2868b8c64cc4b54a2f10c44e75adf7[m
+Author: Cotton Hou <himcotton@gmail.com>
+Date:   Wed Jan 16 06:00:44 2013 +0800
+
+    No need webkit-text-size-adjust:none for web theme
+    
+    Due to Webkit bug #56543, setting "-webkit-text-size-adjust:none" would
+    cause unable to adjust Web page size while zoom in/out on WebKit-based
+    desktop and tablet browsers.
+
+[33mcommit aad3cd769fe6a3d1995d9737e3ad95bcd5cb48ab[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jan 5 23:47:15 2013 +0800
+
+    Change manifest due to path change.
+
+[33mcommit 8111ad15edb6ffd3243d904ba5d97ac970063633[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jan 5 23:02:39 2013 +0800
+
+    Bump appcache.
+
+[33mcommit 9985a62a994b0974460a94e585c7bf7bc1f52ba6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jan 5 19:38:10 2013 +0800
+
+    Testing another domain for the app.
+
+[33mcommit 75bf4e570dba1ed3ca1d5073a7c076dd596e4029[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jan 5 16:51:31 2013 +0800
+
+    sub-domain CNAME
+
+[33mcommit 0314b5d0ae671c46456d982366acb513dee52e5f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jan 5 16:50:55 2013 +0800
+
+    Don't postMessage the error object because it causes an exception
+
+[33mcommit befabff3738afd583adaa99fcee6d3b87545c9e4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jan 1 18:59:51 2013 +0800
+
+    Add files for Firefox Marketplace
+
+[33mcommit 917807765e5a256c9538fd7daac113b5240f0583[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jan 1 18:47:14 2013 +0800
+
+    Add files for Chrome Web Store
+
+[33mcommit 2610785a1d1093df82cd441a5082c7c6f8e25735[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jan 1 18:04:41 2013 +0800
+
+    Even more unmodified state of GA code
+
+[33mcommit d6ecf5de53780434e39d025e4ed272b708f79ad9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jan 1 17:56:25 2013 +0800
+
+    Use unmodified GA snippet code
+
+[33mcommit 57f87f1292d01c0e48840bb234051d2e5e70053b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 31 22:21:35 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 3cdd3da920c2a6019fb70e283380924a8c8b8519[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 30 00:48:22 2012 +0800
+
+    Update README
+
+[33mcommit 55ceb3c6ebcec21a0e2013bc77c2257dd39dce54[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 30 00:48:00 2012 +0800
+
+    Slightly better script injection code
+
+[33mcommit 939a5a0c36eee463b871090e5e7ecd41997967de[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 30 00:47:36 2012 +0800
+
+    Use document.write to inject CSS to prevent FOUC
+
+[33mcommit eeffd8251baa4e347b2500e60ee2d298feaa6573[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 30 00:45:57 2012 +0800
+
+    Switch from Viper to Tween.js with requestAnimationFrame
+
+[33mcommit e04e124d762d9602540f51efe9b61f7aaa168cd2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 27 20:44:55 2012 +0800
+
+    Move some XHR calls to a Web Worker thread.
+    
+    Reference: http://fb.html5isready.com/xhr-worker.js
+
+[33mcommit d4dcfa9fa0d05967fa59413407f2f24315d29ec2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 26 18:16:15 2012 +0800
+
+    Add options page, for setting 'hidden' options.
+
+[33mcommit 60e07a2ce0e96617dd8a0e951451f2ebfd7c30a6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 26 15:19:55 2012 +0800
+
+    Add 404 page.
+
+[33mcommit 87a416253c2af26d4299996486a8beb76cafbe6f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 26 14:59:37 2012 +0800
+
+    Remove /landing
+
+[33mcommit 7394759511994f5e537a0caeeb984eee268a9692[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 24 08:17:19 2012 +0800
+
+    Fix >=2 taps on header breaks the list overflow due to 2nd tap
+    triggering the same code while scrolling animation is running.
+    
+    Fixes #12
+
+[33mcommit fab263c29a6f929eddc74397a3d1009bfee2d31b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 12 22:54:21 2012 +0800
+
+    Bump appcache.
+
+[33mcommit a03e96010ed8621834a16c5686b7f8a18a8967fd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 12 22:53:46 2012 +0800
+
+    Fix wrong GA tracking ID.
+
+[33mcommit 16f53bc0986313cde23fdbfbd971785a80df3f92[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 12 22:17:52 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 4e791342b34de95b941320533e22279d149d31bf[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 11 22:49:56 2012 +0800
+
+    Set position:absolute for views too, for iPad.
+    
+    Also some weird scroll-to-top bug when tapping on buttons.
+
+[33mcommit 45da97e6541810a22af7225f32ab978d39e7fc27[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 11 22:46:07 2012 +0800
+
+    Fix weird scroll-top bug on iPad Mobile Safari.
+    
+    When this #overlay is position:fixed, hiding and displaying it
+    seems to make the comments div to scroll to top. Srsly weird...
+
+[33mcommit 20b758e7463769443e7a4b41f993f561749ea65e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 11 22:32:01 2012 +0800
+
+    Remove unused variable.
+
+[33mcommit 780b9c076fe8903b4c72ee2c6dd8901996bd253e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 11 22:31:48 2012 +0800
+
+    Fix weird position:fixed-related bug on iOS5
+    
+    Related bug: https://github.com/scottjehl/Device-Bugs/issues/23
+
+[33mcommit 23df2960092e7fbdc0837c1ccc447604ca7ff43b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 11 22:30:14 2012 +0800
+
+    Fix address bar hiding sometimes doesn't work.
+    
+    This is probably due to the script loading which depends on network speed etc.
+
+[33mcommit d116994e220bab13148c946529dc69c624e99e78[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 10 09:27:20 2012 +0800
+
+    Remove nodester.
+
+[33mcommit 220b0acb61b138c22ea325bdc856bba13958f59d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 23:32:59 2012 +0800
+
+    'ul' might not be an object somehow.
+
+[33mcommit 1c5672b00001ee9b86994f96f43a02c1713d700a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 23:25:59 2012 +0800
+
+    Re-edit README.
+
+[33mcommit 1eef5f857d2ac7c925b01e9f0c5c9a43d2d5f04b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 20:20:38 2012 +0800
+
+    Copy and style changes.
+
+[33mcommit 4f1b1109490a472396824f30eb1bfa2321a7972b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 20:07:15 2012 +0800
+
+    Using position:fixed seems to fix quite a number of bugs.
+    
+    It fixes the weird scrolling behaviour in About view, and
+    the hack to show address bar is no longer needed. Also removed
+    some redundant code that was meant for non-iOS use cases.
+
+[33mcommit 79554af7a5c4b1ebd07ca4888835ae292332b9ff[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 20:03:45 2012 +0800
+
+    Fixes overlay not hidden enough.
+
+[33mcommit a7f5b832d5537ae3ef9cb93377121d582ca5da30[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 20:03:18 2012 +0800
+
+    Fixes JS can't get the screen state
+    
+    Since both CSS and JS files are being loaded async, there's a chance
+    that JS can't read the CSS property yet which then can't get the
+    screen state.
+
+[33mcommit a0b20959638c4c0dc12c45d508642d7f3fa4524a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 9 20:01:11 2012 +0800
+
+    Rebranding, new name and new icons.
+
+[33mcommit b1dd80d2316e418eebc9d80b774c48a04e2ac45b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 13 18:54:55 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 98dfad6ab70b197923fde0c05606a422ddd32a85[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 13 18:54:20 2012 +0800
+
+    Load 'defaultPath' by default without changing location.hash
+    
+    This basically handle the case when location.hash is empty and not
+    sure which route to trigger. Also the URL will be cleaner when
+    initially loading the page and prevent creating another entry in
+    browser history when redirecting to this defaultPath route.
+
+[33mcommit 0b44f9f1979cb21f29bd546fbd1a7d8147169d43[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 11 22:56:56 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 28765dea21574be66bf700a5b6d1fe094381251d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 11 22:14:34 2012 +0800
+
+    Track the theme usage.
+
+[33mcommit 1f5ba1c02a6745aaa4e7e1ebe9028cfb60e5bf0f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 11 22:13:35 2012 +0800
+
+    Extra error checking.
+
+[33mcommit 34cd063af9152317e67a7d4a81fafc7c911042ae[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Nov 10 23:52:04 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 7f49c9f68c7809b72c7412389de57c6482d1796c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Nov 10 23:49:15 2012 +0800
+
+    Fix tap header not showing location bar in iOS6+
+    
+    For some reason, when the height is restored to the original height,
+    Mobile Safari pushes away the location bar. This fix doesn't restore
+    the faux '100%' height but it will restore when tapping on the
+    scroll areas. It causes a little blinking but will probably be a
+    rare case. Also added a condition for this code to only run on
+    iPhone/iPod.
+
+[33mcommit 4a86776494c19a3299f228147ef167c70ede9949[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Nov 10 23:29:11 2012 +0800
+
+    Possible fix for Flash of Unscrolled View (FOUV)
+
+[33mcommit 40da1028d13c6ab67aaf419d90d2564a1d9d821c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Nov 10 23:28:48 2012 +0800
+
+    Remove unneeded $commentsScroll
+
+[33mcommit b359f69dd157d5d1537098373f717b70f23b75b8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Nov 10 20:25:02 2012 +0800
+
+    Better refresh of comments when switching between views.
+
+[33mcommit 1489cdfb5900b43f91f8d9edef0770f418debe97[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 6 23:16:25 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 3e55ab722722e2e10ba45168c92b3d9441986042[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 6 19:38:14 2012 +0800
+
+    Add another API backup.
+
+[33mcommit de80f0ae9545ad7a321416c8cf2378f2d378e44e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Nov 1 20:15:42 2012 +0800
+
+    Make IE10 (and future browsers) to render in the right viewport setting.
+
+[33mcommit 1bffba32a148c556f63b1390ee663beaa606c1fc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 31 21:42:17 2012 +0800
+
+    Bump appcache.
+
+[33mcommit ba3d9e690f266f1dd57bdbfe3663c816ba5b0a93[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 31 21:39:20 2012 +0800
+
+    Recompile scripts.
+
+[33mcommit 28f4af3429284fcb0533e40522cf1e59b82c8995[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 31 21:39:04 2012 +0800
+
+    Upgrade Hogan.js
+
+[33mcommit 753a1c8a58681beac1adace2bfcad46abcc62151[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 31 21:38:38 2012 +0800
+
+    Moar API mirrors/backups. Load balanced.
+
+[33mcommit 0857d394a5c8af7f220fc3ebe399454f89322d16[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 21 17:23:06 2012 +0800
+
+    Make the poll chart bars width relative to the highest value instead of total.
+
+[33mcommit 0a91b0ddd774733c27c9106127f01eec16c2fcde[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 21 17:09:41 2012 +0800
+
+    Remove LAB.js
+
+[33mcommit 99ef88bd7fc8044e03b2a71824ef76c20e45e55e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 21 17:09:06 2012 +0800
+
+    The post content can has <pre> too, not just the comments.
+
+[33mcommit 262548f0cfac720ace3c1219d17cfda58e8ef1cb[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 14 20:49:55 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 22909a33270055fa88f17d6359d2d7c9b65caa11[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 14 20:48:11 2012 +0800
+
+    Add Menlo and Inconsolata to the monospaced font stack.
+    
+    Since iOS only has Courier and Courier New for monospace fonts, use Google
+    Web Fonts to embed Inconsolata. It's not included in appcache, since it's
+    experimental for now and I might change it later.
+
+[33mcommit a701f66760515d4c8c6579f12ed6e4278122e2b5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 13 22:19:03 2012 +0800
+
+    Bump appcache.
+
+[33mcommit f7140398f932df6bdecfb76a7cd6f1f90c1af2ab[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 13 22:17:49 2012 +0800
+
+    Cut the delay by half.
+    
+    Probably iOS6 gotten faster. Or probably because of the script loader.
+
+[33mcommit 7176ad704beae41dd279ebc0a8efb14e94a6447f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 13 22:14:33 2012 +0800
+
+    Fix scroll position not restored when 'back' from another site.
+    
+    When the web page is appcached, Mobile Safari seems to kill the page
+    off from (in-memory?) cache when navigating to another site.
+    Pressing 'back' will then reload the whole web page again instead of
+    restoring from cache.
+
+[33mcommit c410e4dc7c46be48735fb276ebb4f069df63624f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 13 11:21:48 2012 +0800
+
+    Fix missing parent when target might have already been removed.
+
+[33mcommit 9c16667e5360ddfef2ebba3caf40a96d7dfd3277[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 13 11:21:05 2012 +0800
+
+    Fix bug with document.head not defined for some browsers.
+
+[33mcommit 4386601ac0f2db212ed6871193933f97b8dba82e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Oct 11 20:42:55 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 404a2fb4d7ace1e822f7e1f10b9898047e10ef45[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Oct 11 20:18:44 2012 +0800
+
+    Nodejitsu has no forever free plans :(
+
+[33mcommit 344009cd60b18b86e045ad4351fd20c58f76541c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Oct 11 20:17:29 2012 +0800
+
+    Check if apploader element is still there.
+
+[33mcommit 3b13db81730d74d8fac778b0f5b7217ab00bff7a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Oct 11 20:17:03 2012 +0800
+
+    Fixes huge code mistake, for the HTML injection.
+
+[33mcommit 923bd6e7d95f35df8b4546fc161777d21048cfb5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 6 23:39:37 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 5a39913c83ee47f164c2f9246a0f157c0fe5954d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 6 23:38:30 2012 +0800
+
+    Fix error on the API urls.
+
+[33mcommit 4efbe5914a361dfcbb6e63d091242d48e3c3ad11[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 6 23:35:37 2012 +0800
+
+    Stop using async=false for script loading.
+
+[33mcommit f0563107c8e734a8df563d8f8360748350c002c3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 6 23:34:04 2012 +0800
+
+    Add a 3rd backup for the API.
+
+[33mcommit 92fb5600d4c8230a411a1f100a208b08b5d62788[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Oct 6 23:33:24 2012 +0800
+
+    Extract out applicationCache-related code. Make sure it always
+    works for cases when JS file doesn't load or has page errors.
+
+[33mcommit 18835211dd0d6c729f9fe719b30be6c73490558d[m
+Author: Julien Chaumond <chaumond@gmail.com>
+Date:   Thu Sep 27 10:58:02 2012 +0200
+
+    These are not used anymore, right?
+
+[33mcommit 051373cfc0bd6d15bc8b331cb761ab00638897b9[m
+Author: Julien Chaumond <chaumond@gmail.com>
+Date:   Wed Sep 26 16:06:10 2012 +0200
+
+    Warning: do not use npm's current version of hogan-js (v2.0.0)
+
+[33mcommit e6e8233fef9a6f2a9aca423945692741c861eb88[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 27 22:40:23 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 0621b2a1575e5b64b459144e8e58b61874075ba2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 27 20:49:57 2012 +0800
+
+    Reminify scripts-web.
+
+[33mcommit 8f36b87e8b33d03d255b6abb5ac639ea1d49d3eb[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 27 20:49:38 2012 +0800
+
+    Remove load event for this reveal code.
+
+[33mcommit b08ea09ae5743adb91a4feb04cba38a8307c480d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 27 20:48:55 2012 +0800
+
+    Possible fix for edge cases when body is undefined.
+
+[33mcommit be57f4e95fd8432ee33115c6800a9689e51fd694[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 25 22:22:33 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 95d45b136f5a78f83b9fb637551a3f5045c4b1de[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 25 22:21:02 2012 +0800
+
+    Fix the orange background 'bleed' through the border radius, on Chrome.
+
+[33mcommit 700840b00c40505a58c2b1c7e5412cb879af089f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 25 22:11:20 2012 +0800
+
+    Fixes shadows on iPad version, plus more accurate shadows.
+
+[33mcommit 97986a4e719684967ef0fda46a0106346e24018a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 25 21:55:47 2012 +0800
+
+    Fix bug where comments toggle button make the content scroll to top.
+    
+    This seems to be a weird new bug introduced in iOS6. A little fiddling
+    reveals that the bug happens when the container has display: box and
+    (old) flexbox-related CSS properties. The solution is just remember the
+    scroll position and apply it back after the display:none toggle.
+
+[33mcommit 98c222c571889c4d6e0496bb3e47f34b9e935ee6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 25 20:19:54 2012 +0800
+
+    Fix domain not shown on the stories list in iPad.
+
+[33mcommit 60bfb135c18e42ed1af615e8861be6248e306c57[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 23:00:55 2012 +0800
+
+    Due to how scripts load now, sometimes 'load' event doesn't fire. Thus this fail-safe solution to make sure the app is still 'reveal'-ed.
+
+[33mcommit fd43a4dc11eab13be3cff0f306d2c8d82a6873ac[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 22:49:59 2012 +0800
+
+    Get iOS-specific HTML code out of the source, inject via JS instead.
+
+[33mcommit eca7f785f854c2e82294a156d81086cab245e740[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 22:48:44 2012 +0800
+
+    Remove the margins too.
+
+[33mcommit 4f850777c319af93e5d0097d680aaa5d1edcd62d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 22:48:20 2012 +0800
+
+    Much better solution for the shadows under the header.
+
+[33mcommit d23eba77d50a293c8dc2c85d7d29e8094810cfc1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 22:08:52 2012 +0800
+
+    Fix amplify.storage.sessionStorage errors for browsers that don't support sessionStorage.
+
+[33mcommit 9d5699acb56c3d06133d13723ed4e3f95dd76815[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 24 22:07:40 2012 +0800
+
+    Fix pubsub not passing data correctly.
+
+[33mcommit 1df55734285195b3d350852865c8398d8f5e4b09[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 21:12:31 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 747a062cdee8da108c697cbe450098c4ce2f29f7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 21:12:14 2012 +0800
+
+    Cache iOS5 artworks. Really wish appcache supports setting conditions.
+
+[33mcommit 06a1624ee224ccc87e7b65f4a1f0a1627450f19f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 21:05:50 2012 +0800
+
+    Reminified hnapi.js
+
+[33mcommit 66a431b24510f5b2154572d35d62e7a12c763b63[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 21:01:07 2012 +0800
+
+    Bring back basic JSON-P fallback, hoping that this would make the app work on Opera Mini.
+
+[33mcommit 5533030f199f4c61a76880f92cddba9880f57c7e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 19:48:09 2012 +0800
+
+    Fix accidental global variables leak.
+
+[33mcommit 8833091ff97609f2f2fd678c9c06ffedaed1fd45[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 19:47:35 2012 +0800
+
+    Force redraw/repaint when loading About page.
+    
+    For some reason, scrolling become disabled in landscape mode in About
+    page. The cause seems to be the height of the body being set, which
+    doesn't really make sense. Temporary solution for now.
+
+[33mcommit 78c8de1d2b65fa496bf74d48561bfa18e43c0949[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 19:45:08 2012 +0800
+
+    Revert back to non-mini nav bar for iOS6 landscape fullscreen mode.
+    
+    The mini nav bar on fullscreen mode is too small and is blocked by this
+    invisible tap area for scroll-to-top. So the bigger nav bar will give
+    a little extra space for tapping on the buttons, etc. Not ideal and a
+    temporary solution for now.
+
+[33mcommit 88221c23c5d9a313a81ab18c4c180684509f7602[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 23 19:40:43 2012 +0800
+
+    Apply new iOS6 artwork, plus fixes. Fall back to old artwork for iOS<5
+
+[33mcommit a68d7d980582b0ccfa480837ba2ecd0483e78651[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 22 18:22:39 2012 +0800
+
+    Hide address bar (scroll to top) only when there's innerHeight differences. Might not work in some cases.
+
+[33mcommit acd2894e370ac437f8a4d3c8464deec0d6932731[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 22 17:47:40 2012 +0800
+
+    Scroll to top and set app height, when resize in iPhone Safari landscape mode.
+
+[33mcommit 1af2573e6247c8bcfe78566f07cc5e6ee0dcdd84[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Sep 21 08:11:49 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 1531ec6b72b8e8968f216d225624775bc18807fe[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Sep 21 08:10:59 2012 +0800
+
+    Fix weird jumps when scrolling on iOS6 Safari.
+
+[33mcommit b0c50e5e64d131d0c1b0cff586ce89b8e0435ef8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 20 08:30:26 2012 +0800
+
+    GA script/pixel injections somehow mess up script loader execution order in Opera.
+
+[33mcommit 61ec311123562389f1752f2a62ba7e3328ab5372[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 18 20:18:06 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 9c20beeb3a4580be19ef4830a1804240ec143670[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 18 20:17:00 2012 +0800
+
+    Log API failures/errors to GA.
+
+[33mcommit e4a00592b73f9d325d6078bc47fde398bb9eca9b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 18 09:15:05 2012 +0800
+
+    Code cleanup and a bunch of comments.
+
+[33mcommit 7d02ee8722606cdb6cd2dc25b19f5d4115d17af9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 18 08:26:37 2012 +0800
+
+    Make sure domain is not shown if link is local.
+
+[33mcommit 30b0f172dac66b22789ce8add8f57f67cb6711a7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Sep 18 08:25:57 2012 +0800
+
+    Some job 'stories' have external links, so show the domain.
+
+[33mcommit edfab303df5ab8beb0ed574730258e827917f8a8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 23:49:32 2012 +0800
+
+    Change app desc, and make it not wrap under the icon.
+
+[33mcommit 1dc915916cd9752393a4697ad6fce954014497ca[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 23:29:56 2012 +0800
+
+    Revert "Use landscape orientation media query, to be more accurate."
+    
+    This reverts commit 7889f6cce4d31a67bdb8f5f393553fbf6a46a63c.
+
+[33mcommit cdba5adca19a9a874271473a6165fb8c1700bc77[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 23:29:49 2012 +0800
+
+    Rename icon id.
+
+[33mcommit 68ebb3d18a5c393c384645e7c4d24cdb5f342d00[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 23:25:48 2012 +0800
+
+    Remove all other CSS prefixes, now that this CSS will only be served for iOS.
+
+[33mcommit daa326099f6b160e0bd1871a6e316203532dc062[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 20:53:18 2012 +0800
+
+    Fix heading text not overflowing properly in IE9.
+
+[33mcommit d767a380ada9f6f727fdc3258b41303519c05e2f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 20:28:06 2012 +0800
+
+    Cache the selectors for comments view.
+
+[33mcommit b0f014f7f65644a8b46aa881a0b788c1948750ed[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Sep 17 20:27:25 2012 +0800
+
+    Replace LABjs with straight-forward, simplified code for script loading.
+
+[33mcommit c741051edc5a389fa9cef8921eda2b5b011f5493[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 23:02:22 2012 +0800
+
+    Revert "Fix 'load' event not triggered on iOS Safari when 'Back' from another page. Probably due to addition of LABjs."
+    
+    This reverts commit b7fedd4a67b9dfec3794d8fea056af938bc58d3c.
+
+[33mcommit fe255bde3c8007f52d3ee77ccabf3a2c1eb3411c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 22:09:24 2012 +0800
+
+    More detailed local server logs.
+
+[33mcommit 3a433cc090371663949267c85439848a99ecf80c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 22:08:59 2012 +0800
+
+    Migrate from path.exists to fs.exists
+
+[33mcommit 3cdcc83d587edca4d6e2cd0b631f59d83368213b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 22:08:08 2012 +0800
+
+    Slightly faster fade out, on load.
+
+[33mcommit b7fedd4a67b9dfec3794d8fea056af938bc58d3c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 22:07:42 2012 +0800
+
+    Fix 'load' event not triggered on iOS Safari when 'Back' from another page. Probably due to addition of LABjs.
+
+[33mcommit 7889f6cce4d31a67bdb8f5f393553fbf6a46a63c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 22:04:37 2012 +0800
+
+    Use landscape orientation media query, to be more accurate.
+
+[33mcommit 2f468cf20f3cd427dc0e5c3ec7068a5798f45905[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 20:06:03 2012 +0800
+
+    Bump appcache. v2.
+
+[33mcommit 13fa192718d08a1df85fd57818c67beda085cc4a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 19:34:34 2012 +0800
+
+    Fix code typo.
+
+[33mcommit 900313da8416ced71f889a1b2bebac063dfad7c1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 17:54:31 2012 +0800
+
+    Fix refresh icon to be smaller on landscape mode.
+
+[33mcommit 597e7b25283f66a922cfb624511803d4ce22af25[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 17:54:05 2012 +0800
+
+    Enable mini toolbar for landscape fullscreen mode in iOS6 Safari.
+
+[33mcommit 6a274bc22f22b8b5c15a24782053af8e4c435a71[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 17:34:14 2012 +0800
+
+    Fix bug where iPad Safari screwed up the "initial-scale" and render the page at 50% of its viewport.
+
+[33mcommit 3dbad1b75cfdd280f068e6c18c2bea7c09593e8a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 15:49:45 2012 +0800
+
+    AlwaysPreserveOrder: true, is required.
+
+[33mcommit f84a0f37ce35d96a7f76daac7663e67466bf7498[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 15:34:41 2012 +0800
+
+    Simplify LABjs code.
+
+[33mcommit c216ad1e087861e0c48b703eb2a391239928f754[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 16 15:34:14 2012 +0800
+
+    Make code forward-compatible with 'THEME' var, for future themes.
+
+[33mcommit 6b88690951bd6a4af881e1e7d528cac22f48d842[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 15 22:11:35 2012 +0800
+
+    Provide a function to init after all stuff is set, etc.
+
+[33mcommit 82595d18c6d9640585b9ed2694464101531f70d0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 15 22:05:51 2012 +0800
+
+    Default to device-width viewport. iOS theme will override this to non-scalable.
+
+[33mcommit a42d451387c2705a54c560b6ff2e377aabc167d1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 15 21:59:00 2012 +0800
+
+    Add option to simulate slow connections for local server.
+
+[33mcommit 5a8609d375c4fe89ce2e903d68b7ca319637b92b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Sep 15 21:57:32 2012 +0800
+
+    Whole bunch of changes, providing additional 'web' mode/theme to hnmobile:
+    - Reorganized all the files
+    - Split code into 'web' and 'ios' theme
+    - Replaced director.js with ruto.js, pubsub.js with built-in smaller codebase
+    - "Flatten" the favicon
+
+[33mcommit ec75961f61c6c35eb3b8397bd6cb4572e1262b19[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 6 09:18:13 2012 +0800
+
+    Bump appcache.
+
+[33mcommit a23ff4ed60365a13326624466501e91063101fe5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Sep 6 09:17:59 2012 +0800
+
+    Split up the scripts into separate lines, for easier error debugging.
+
+[33mcommit 8e1ec8889e15914461be831556b981794f9656a1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 2 21:54:28 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 93cb2d5e56de6c402e72b228ac57a115caced111[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 2 11:57:08 2012 +0800
+
+    Fix long-time regression bug, where links on About view can't work at all.
+
+[33mcommit 2a4c4371d38a2eca0a3e81dfff0a6b497a654880[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 2 11:34:46 2012 +0800
+
+    Make sure prevRoute is really different than currentRoute.
+
+[33mcommit 6a55866992d1fce7a4f5c0b6df15aa7ef0160820[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Sep 2 11:33:22 2012 +0800
+
+    No need 'on'.
+
+[33mcommit 1f1cedf8ba4f75816acac640ca98b4f11d2f4316[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 26 23:32:09 2012 +0800
+
+    Bump appcache.
+
+[33mcommit c6f9982fe202bbc62ea0e12f1409366f754ae532[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 26 19:19:52 2012 +0800
+
+    Update the app description in 'About' view.
+
+[33mcommit 9c345cef25687cd783c814b204c6dbb0869096f8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 26 19:19:14 2012 +0800
+
+    Make the images a bit more accessible.
+
+[33mcommit 1a3cb0af206da518fe6469faea654d98266e79ec[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 26 19:18:36 2012 +0800
+
+    Clean up code for 'news2' preloading.
+
+[33mcommit 178d0b1586652e23d48aa4c7574f798b546f0d59[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Aug 24 20:30:23 2012 +0800
+
+    Add a small requirement text and link to 'Other platforms?' in README.
+
+[33mcommit 192e84ca14c19301232a7ba5fdef67317b205259[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Aug 24 20:19:20 2012 +0800
+
+    Additional notes on dev for other platforms.
+
+[33mcommit 4910bd77ca70b61382b47c625ebbc7dc1271aa13[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 22:58:53 2012 +0800
+
+    Disable the click outside to close the popover code. Buggy.
+
+[33mcommit 3385c6dd8e93fd2ad21197dcaee22e392f2579d1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 22:34:24 2012 +0800
+
+    Color changes.
+
+[33mcommit 29dc008d9d26a5e40e33fdee484733a963db07f8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 22:34:13 2012 +0800
+
+    Link to HN from description text.
+
+[33mcommit 939afbf29cfd04c916aecfbfbfb304801d9bb341[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 09:26:42 2012 +0800
+
+    Tiny adjustments. And don't forget, iPod Touch.
+
+[33mcommit 7ab1713891bd9743d778d195d40d251a6f13d62c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 09:25:36 2012 +0800
+
+    Add iOS orientationchange zoom bug fix.
+
+[33mcommit 144c8941b2a77c1dafbf9b946fd7527db8a51d59[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Aug 22 08:07:53 2012 +0800
+
+    Update README with links to blog posts, PubSubJS and 3rd-party contributions.
+
+[33mcommit 7139eff879cda55a7f6057d7afd5123b862cb733[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Aug 21 22:51:11 2012 +0800
+
+    Redesigned landing page.
+
+[33mcommit 627585d0b46c6d356e59f45ca3f10ce340d4a6ce[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Aug 20 20:13:03 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 85a2e69b51f6b05a5b1777d72b9c560fea4b228c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Aug 20 20:12:44 2012 +0800
+
+    CSS perf fix for the blank state background gradient.
+
+[33mcommit 52359adb812d42c8a52cd28d81f574401576b441[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Aug 20 17:26:01 2012 +0800
+
+    Muscula is back. Use it.
+
+[33mcommit 58ee9e4d0178454060df13eea273060994df8290[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Aug 20 16:52:45 2012 +0800
+
+    Reconcat/uglify the scripts and templates.
+
+[33mcommit 84ee62fd97d49324ec3a7fc1a6c8b3c00228fc1f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Aug 20 14:34:01 2012 +0800
+
+    Clean up CSS with multiple backgrounds for widescreen.
+
+[33mcommit 07700e75cbdf3acb1fb28b6bf090f132848fc396[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 12 22:40:49 2012 +0800
+
+    Implement better error handling with 'retry', plus few code cleanups.
+
+[33mcommit 09c003d5238f454a56783e6e3222559763e49c11[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 12 18:21:53 2012 +0800
+
+    Switch to Nodester, seems more reliable than Nodejitsu.
+
+[33mcommit 7585b939e1571b371459c425ed904b5996117da7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Aug 12 18:13:59 2012 +0800
+
+    No longer support JSON-P fallback, 100% CORS, with request debouncing and timeout.
+
+[33mcommit 809ad04449ea632c072541e861ed6fb4048ab8ff[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 22 21:13:28 2012 +0800
+
+    Revert back to old implementation. Pre-rendering is cool, but the HTML size is too large and may slow down scrolling.
+
+[33mcommit fb18eda928cb7b91452c4ffc20d91dc3da1ba8dd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 23:12:19 2012 +0800
+
+    Also remove 'white' class from HTML.
+
+[33mcommit 59c63dee38e222ed679a36178ed758c26f59d466[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 22:40:04 2012 +0800
+
+    Move the top gray line to be 'under' the navbar. Peekaboo when pulled down.
+
+[33mcommit 076e3304f6ccbd6c2431b1a240c935817cc1a1d7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 22:38:59 2012 +0800
+
+    No longer need .white className. Now default to white, previous color was wrong.
+
+[33mcommit 79588f1f48821b638a322b256146adac8bc836a2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 19:34:24 2012 +0800
+
+    Make comments toggle buttons look more similar to iPad YouTube app's 'Load More Comments' button.
+
+[33mcommit 22ad6813e72a3d4c4c7a9bc3044eff88dc25d224[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 19:33:10 2012 +0800
+
+    Prettify the <pre>'s.
+
+[33mcommit 97b92da520d97dc231f7508c7047762d99e4f3b3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 15 17:24:35 2012 +0800
+
+    Fixes regression where 'More...' link doesn't work in comments view.
+
+[33mcommit a7f0f3273ad47e17bc1e861e23649c948bad61b1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 14 20:34:29 2012 +0800
+
+    Delay the tapped class removal.
+
+[33mcommit 22cd12e546bd5bb095144da76ee0e17ab48ae0cf[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jul 12 22:28:59 2012 +0800
+
+    It's okay to be async here.
+
+[33mcommit 44cf0b20ceebba2020681bdb3014e2dc374bd888[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 8 23:09:12 2012 +0800
+
+    Slightly optimize the slide and flip functions.
+
+[33mcommit d600648f14f54d2397d073a1e57e20cd98897191[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 8 23:08:34 2012 +0800
+
+    Make story loading faster, run it by the time mousedown/touchstart is triggered.
+
+[33mcommit 5db4894167c255aa05e701ed7f529b3c0cdbeafa[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 8 19:53:03 2012 +0800
+
+    Perhaps better perf.
+
+[33mcommit f06c0b0c06facaebf5f54a684521b496ee8c9695[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 8 19:52:38 2012 +0800
+
+    Slightly faster 'reveal' curtain.
+
+[33mcommit b0e281689e4a2c13efc97c12e315647ff7cc81fc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 7 22:23:24 2012 +0800
+
+    Disable user selection on some parts of the UI.
+
+[33mcommit eab309d65a0f3cc4dae5431c37f7897efbfedf76[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 7 22:21:34 2012 +0800
+
+    Only 'deselect' selected items that are not tapped.
+
+[33mcommit 612565762b9cba750ff44f0ccc8d933d66fc8a21[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 7 22:20:58 2012 +0800
+
+    Fixes edge case where there might be multiple selected links, somehow.
+
+[33mcommit 654b641710dbef28bfbbcec34f9d2cce18329233[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 7 22:20:28 2012 +0800
+
+    Split apart the tap event for tableview and grouped tableview links.
+
+[33mcommit 3cf57ef9e23897a14c738f46a6c3c9672fb16b35[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jul 7 22:19:49 2012 +0800
+
+    Slightly faster tap, experimental.
+
+[33mcommit 2d840610435905eb817ad9d06734491c941c03b6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jul 3 23:52:59 2012 +0800
+
+    Performance fixes.
+
+[33mcommit 37bddeb6a05e31c55081a129b150013b30dac241[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jul 2 23:58:05 2012 +0800
+
+    Space fix.
+
+[33mcommit 86605b486bacf369b00eba8643311f8ad6b5d6c6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 1 17:43:50 2012 +0800
+
+    Switch to ico, which contains 16x16 and 32x32. The latter is for retina.
+
+[33mcommit 5ef1c70e760693feb70a58cb81bbddb3b39fce12[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 1 17:31:54 2012 +0800
+
+    Replace `position: relative` with another solution because it causes weird peek-a-boo quirks in Mobile Safari.
+
+[33mcommit 22e452d344ab1aa4b6f65531916743a5638fce92[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jul 1 16:25:29 2012 +0800
+
+    This 'prefix' attribute selector needs quotes to work, somehow.
+
+[33mcommit ba4b5ae2612b788ca8beab7a31b316991fe188a7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 25 23:14:45 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 706f981bf03f290d850796d75c62ef1c55772cf3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 25 23:03:35 2012 +0800
+
+    Tracking page views is practically useless.
+    It's a one-page app and that's it.
+
+[33mcommit 68039ce94d99245e07fc33cee6ae0c001cbbc563[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 25 22:57:27 2012 +0800
+
+    Make sure the original response data is not modified.
+
+[33mcommit 5442d86c5d1456c242e43b55e55a3d29780fd6b2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 24 18:55:34 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 9bfaa6ab04d765c45276f0a4592de6c7629305bc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 24 18:42:22 2012 +0800
+
+    Slight adjustments.
+
+[33mcommit 0cd491b7f4a6fda599b21f309ee9ce5c66f9959f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 24 18:01:11 2012 +0800
+
+    Add email address and bigger font size for About dialog.
+
+[33mcommit c275cfa91b2db3a50d7720bfbfbd2215a967516a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 24 17:35:30 2012 +0800
+
+    Whole bunch of perf improvements.
+
+[33mcommit ddc575b7a46f1c44f6f3a302373bad245d050e5e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 21 23:45:10 2012 +0800
+
+    Missed the silver nav bar image.
+
+[33mcommit 54b21ced716a68237de379fa07cd16da68b55496[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 21 23:44:20 2012 +0800
+
+    Make the minHeight fix less jumpy and uses <style> tag instead of inline style.
+
+[33mcommit 41070e5eda5442523e34e894f4f0245ceedf4caf[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 21 23:40:50 2012 +0800
+
+    Fixes wrong gradient for the About dialog background.
+
+[33mcommit f592dc1015df472929b569905b2e041f7692c95f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 17 10:11:25 2012 +0800
+
+    Add node-hnapi.jit.su as backup, plus code polish.
+
+[33mcommit cc4bb9b9c2b2b93570e42bc900a4ff39b42a4207[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 14 08:02:23 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 2735846635f95c9d5b85a9112b0d9fa5ba981ea0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 14 08:02:12 2012 +0800
+
+    Fixes 'url' being undefined on Safari.
+
+[33mcommit beaf69e7f9074f35862b287b7836c3936236f891[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jun 12 23:20:31 2012 +0800
+
+    Bump appcache.
+
+[33mcommit ff63cc7a6c34b82b5ec88b34928d70a69dca2237[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Jun 12 00:21:13 2012 +0800
+
+    Fixes current story highlight on stories list, shouldn't work when not in widescreen.
+
+[33mcommit fc9d7cf97d75c18b05c6f30d63d5106aa3d0045b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 11 23:58:17 2012 +0800
+
+    Seriously forgot to cache this comment arrow image.
+
+[33mcommit e6b5a91eba1c1f42f708620826883b1cd922b420[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 11 23:56:07 2012 +0800
+
+    Delay and asyncify the tracker and comments HTML rendering because it seems to affect performance of the CSS animations.
+
+[33mcommit e706995928817e4af1beb6946379d868d62030db[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 10 19:57:38 2012 +0800
+
+    Muscula shutting down. Replace it with error logging on GA.
+
+[33mcommit d3a68e977639642259bb0846bccc08a447466268[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 10 19:50:48 2012 +0800
+
+    Port latest tappable changes.
+
+[33mcommit 32e2a9ccd8dae30ccf711be57ae90989da9efaf2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 7 07:58:15 2012 +0800
+
+    Bump appcache.
+
+[33mcommit ee2560231c223d7e7e2f65579246e57c3c2b9a1a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Jun 7 07:57:46 2012 +0800
+
+    Some version of WebKit doesn't seem to support this 'fill' keyword and the whole thing just stop working.
+
+[33mcommit 4f3cf6d96e101fcd5b0ff108dcccafbafdce68d7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 4 08:25:28 2012 +0800
+
+    Bump appcache.
+
+[33mcommit 16adc75bf10ee348023228dac75be6badb849c0a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 4 08:25:06 2012 +0800
+
+    Upgrade amplify.store
+
+[33mcommit 9f3c696044c4bb9c852451377a554df8fcbf561f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 4 08:24:42 2012 +0800
+
+    Fixes error where comments section might not be there.
+
+[33mcommit eefe170d12fce7d17f1903461bcf7a6df5cfbe47[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jun 4 08:24:17 2012 +0800
+
+    Fixes regression where tapping on links open new tab *and* in current tab.
+
+[33mcommit 0bd674feefb516ee68aad4a63e0fbc26a2dae943[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 3 12:49:13 2012 +0800
+
+    Make /landing work too. Check path if it's a file or directory.
+
+[33mcommit f772c47423bade331c639c6884a90f525cda268a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 3 16:28:03 2012 +0800
+
+    Make sure the table cells are still finger-friendly.
+
+[33mcommit db24572a8169e27584e37f119bcd31bfd5bceb65[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Jun 3 16:27:32 2012 +0800
+
+    'Ask' is not the only stories that's local. *Some* job links are local too.
+
+[33mcommit c6aaa4b3a53af88b6c790b5d01526904bd163fef[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 20:29:57 2012 +0800
+
+    Bump appcache version.
+
+[33mcommit 70260a2410f633179fd02fab5033a03db05632ae[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 20:25:05 2012 +0800
+
+    Smaller sidebar width for portrait mode (not-so-wide screen), expands when wider.
+
+[33mcommit a6a6e53386a531cb9bceac453bf9d96c892c3f00[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 20:05:08 2012 +0800
+
+    Fix regression due to class name change.
+
+[33mcommit 3ac985711913214b7a892b30ae79e08ce55d6c46[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 20:02:45 2012 +0800
+
+    position:relative element becomes peekaboo in a -webkit-overflow-scrolling:touch container. This is the fix.
+
+[33mcommit e076956df18ae3f322bd34fdcb8f85a3eda32ef2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 19:49:41 2012 +0800
+
+    Disclosure arrow for 'ask' types, and better class names.
+
+[33mcommit e1e37473d2fd1c3af1ee7570418c55ed1a3f58c1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 19:30:34 2012 +0800
+
+    Remove unused CSS.
+
+[33mcommit 24d766c9a0b5d67516bcdb2bb348f527f725efcd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 19:30:20 2012 +0800
+
+    This is actually needed. Seems to fix margin-collapsing and other weird CSS bugs.
+
+[33mcommit 9ebd2ffcce3b2abf23d5831ece67ae7f25deb4a2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 17:22:54 2012 +0800
+
+    Lighter background. Dark and bright colors when switching stories is a bit inconsistent.
+
+[33mcommit 553d4093ccea53ed54e00d1aeb0c177d9c858d6e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 16:43:57 2012 +0800
+
+    s/Stories/Story
+
+[33mcommit e174c206d321521ec630d53532c7314b5254272e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 16:43:40 2012 +0800
+
+    Job links have no ID.
+
+[33mcommit f889139d69f4726790f36e206d6b32856ee9a8ad[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 16:43:15 2012 +0800
+
+    If external link (job links), open in new tab/window.
+
+[33mcommit ae0c72c16306355e3b9fd3dd1b1da3ecfb98a49e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 16:42:42 2012 +0800
+
+    Style changes for wider screen.
+
+[33mcommit 23afae8608823fe33bbe790225ac48f9b199ee4a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 00:15:25 2012 +0800
+
+    Halo CSS tweaks.
+
+[33mcommit 7c7dbce208e8f6cc95f1cb22185efc097f225047[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Jun 2 00:11:36 2012 +0800
+
+    CSS fixes.
+
+[33mcommit e5be324a3394d5a766c1847004f6131f60280e14[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 23:54:00 2012 +0800
+
+    Smaller heading.
+
+[33mcommit f724696951431f004c35bfab9420fa181c021c95[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 23:53:03 2012 +0800
+
+    Smaller width for comments toggle button.
+
+[33mcommit a00cab30371751a6021fd8c1e3401918a6e8db92[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 23:52:48 2012 +0800
+
+    Bring back comments collapsing to widescreen.
+
+[33mcommit 6fe9419d8e96085defd957db138ab4c37f1e2874[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 23:52:27 2012 +0800
+
+    Don't allow click for widescreen.
+
+[33mcommit aca3f4b1618b82129af1a435b7e2fb1714b6e091[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 23:34:06 2012 +0800
+
+    Remove experimental code.
+
+[33mcommit d8480b232a25531cf18e2b01e6cbb5a4ccf29159[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 22:29:32 2012 +0800
+
+    Forgot the close image itself.
+
+[33mcommit 94fbd535acf4e9ddb686ce61c0ba543628290bc8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 22:29:15 2012 +0800
+
+    Halo pressed state for button bar.
+
+[33mcommit 805e9c80ab8ccc81cc121fc4fc5cbfd618924376[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 22:28:41 2012 +0800
+
+    'fill' keyword for border-image CSS.
+
+[33mcommit 6a12281064b2d3ae4dc356ac6a5ef47fba11cfd5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 22:28:14 2012 +0800
+
+    Port tappable changes.
+
+[33mcommit 570c973c3a724f500a4286f4bd7e9c4914344f17[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 31 22:27:08 2012 +0800
+
+    Add images to appcache manifest.
+
+[33mcommit c06324237bdfde0f11f5c1f1d1a4e407cc974cfe[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 23:35:18 2012 +0800
+
+    Make text bigger, for readability.
+
+[33mcommit 3e000b2e1befb65f940054248e882c72482f9bc1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 23:34:22 2012 +0800
+
+    No longer need faux spacing due to implemented min-height hack in JS
+
+[33mcommit 077a80506e7607680553c1ce3035d30d4eb5cf83[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 23:33:49 2012 +0800
+
+    Put delay on the pub instead.
+
+[33mcommit e63db2c88b410b280ce84b43a99f8023de8cb144[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 22:56:43 2012 +0800
+
+    Moar CSS changes and gradient fixes.
+
+[33mcommit de858ccf62cc8625e664ae66e24be0c0e23c833c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 22:56:18 2012 +0800
+
+    show/hide the story title and the 'X'
+
+[33mcommit 5c448012f682cab3064ddf7750470c6eab631de8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed May 30 22:55:55 2012 +0800
+
+    Remember previous route, for use in About dialog's Close button.
+
+[33mcommit 2867daee3464d82942aabaa195ad1c1bd5ba5dba[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 19:50:42 2012 +0800
+
+    Slight delay, asyncify the post loading.
+
+[33mcommit 2e4fabbbf521c2cb862d72f7659f4f8387d9a2d2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 19:50:13 2012 +0800
+
+    Fixes comments section min-height bug when resizing.
+
+[33mcommit 658b9445793fe4c49a3c6c65e4f5767ff7e1ab48[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 19:13:43 2012 +0800
+
+    Slightly more accurate width for poll bars.
+
+[33mcommit 7ba05a30ce69310c9ccbd084fbd548786e44f29c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 18:11:43 2012 +0800
+
+    Auto-adjust comments section to fill up the space.
+
+[33mcommit 75bbfd9f6a3f63a77b96942335c271ac4875046d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 17:30:02 2012 +0800
+
+    Some comments and spaces, for readability.
+
+[33mcommit bb9064fd29dbb9f8ca39cc57d21ffdd0e7c4d8fa[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 17:18:25 2012 +0800
+
+    More 'original' loading indicator image.
+
+[33mcommit abedae5cefe2d155cdc79f5757bdc5dbb2ff5aa2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 17:08:17 2012 +0800
+
+    10 minutes cache.
+
+[33mcommit 77ec9f879c5317169443d83c0c82f6fd293a87aa[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 17:03:49 2012 +0800
+
+    GA trackpageview for the hash URLs.
+
+[33mcommit 1c5cc0dbf5dcdd89d216def39f5ef1fcc974d598[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 16:52:50 2012 +0800
+
+    Disable touch callout only for 'local' links.
+
+[33mcommit 459f34593d96a861346cb86058a3af677b385bea[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 16:40:35 2012 +0800
+
+    pointer-events none the blank state text.
+
+[33mcommit b8e2aa1f9cb07207652c4a80e54b18aa8fdddb0c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 16:38:18 2012 +0800
+
+    Not forgetting the blank state.
+
+[33mcommit 6cd837d0b499aa008bb4a9461a3b43d01e818009[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 11:19:39 2012 +0800
+
+    Clear the timeout when touchend event is trigger on the stories list.
+
+[33mcommit 2229dbec587721c22526bc0501382bfb6b560ae0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun May 27 11:19:01 2012 +0800
+
+    pubsub for 'reloadNews'.
+
+[33mcommit 7f86d016385b7cf914a1d4935e05fd7bea9b7b98[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 17 23:29:02 2012 +0800
+
+    Preliminary work on HNmobile for 'widescreen' devices.
+
+[33mcommit eb38a300541326d4a38798cd61201209683e48f1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 3 09:20:43 2012 +0800
+
+    Update appcache.
+
+[33mcommit f75cc2cd9ae619105f2b90d6bcd960c3856c7496[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu May 3 09:19:29 2012 +0800
+
+    Escape the title, introduce widows.
+
+[33mcommit 9970f9a71429962ff49591c3e364f149fdf35102[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 17 19:35:12 2012 +0800
+
+    Space between the inline blocks.
+
+[33mcommit b84318520cfd3f4bd28e36a906759291eb9b7d86[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 17 19:30:10 2012 +0800
+
+    Forgot to put this new image.
+
+[33mcommit a595b2fb7a15b1af89753e6b75feb9ed9c2de9eb[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Apr 17 19:29:48 2012 +0800
+
+    Put back the brackets.
+
+[33mcommit 2f7ece90d6c2fd08f635820aa74257f47757d5df[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 16 08:11:26 2012 +0800
+
+    Update appcache.
+
+[33mcommit 899d2c361717788eb1a65d538816e8c3b7687dc0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 16 08:10:01 2012 +0800
+
+    Optimized images.
+
+[33mcommit 29b522e177f0dc479fbef890e555626217d97bd4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Apr 16 08:09:44 2012 +0800
+
+    Show link to original HN post.
+
+[33mcommit 4eb63c6e6bb0a259022cefcacadda15220e0a33e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 15 11:34:58 2012 +0800
+
+    Beautified comments toggle button.
+
+[33mcommit 50c1f13feae287294e1693e44f1a2076744a95b1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 15 11:09:35 2012 +0800
+
+    Spits out the request URL.
+
+[33mcommit 5dbb233270edf442aa48c5a0fff24728fe7c4773[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 15 11:09:18 2012 +0800
+
+    Avoiding weird/rare cases.
+
+[33mcommit c4e936046e63c7b7b57d7dcda635db78c9730dc9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 8 22:41:09 2012 +0800
+
+    Update appcache.
+
+[33mcommit c4ba4b7b2cdf08bd8ed04d6ece61d98107003532[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 8 21:29:33 2012 +0800
+
+    Better poll results UI.
+
+[33mcommit 8193bc624e9f99bd19ae2f649e087c43980471f0[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 23:42:34 2012 +0800
+
+    Show full domain including subdomain. Better.
+
+[33mcommit 70918add9ef82bef58fbaea8322a723900023061[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 23:20:11 2012 +0800
+
+    Refactor code that loads /news, plus auto-reload. Change to 5-minute cache.
+
+[33mcommit 48ec54f7c3b99b3c0c1d7d5b1d5d58270f6bac64[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 16:06:36 2012 +0800
+
+    Recompile templates due to some breaking changes in Hogan.js
+
+[33mcommit 2727b03936b78321ca1d5db02839b39f27b8e40a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 14:48:40 2012 +0800
+
+    try/catch for application.update()
+
+[33mcommit 179d71bc32458d9b647db5c1fbef546692dc4389[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 14:19:11 2012 +0800
+
+    Upgrade director.
+
+[33mcommit 12d6d6be9d075a335c0f593f4df977a5ca547923[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 14:11:17 2012 +0800
+
+    Upgrade hogan.js
+
+[33mcommit 201884337d37a8075fda83d73edb52d7f635ad12[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 14:07:28 2012 +0800
+
+    Port changes from Tappable.
+
+[33mcommit b6c8b33bfcd60687b9716fe3f4ff3c68ee1cba38[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Apr 7 13:51:19 2012 +0800
+
+    try/catch just in case the server sends non-CORS response (server down).
+
+[33mcommit 8bf709a571904c83c644d7a890d0df2e0c864c56[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 1 23:01:34 2012 +0800
+
+    Put a follow button on landing page.
+
+[33mcommit a324d902ea7441dcb90b3a64bea9f758e38ae34e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 1 22:38:07 2012 +0800
+
+    Link to wiki of HN apps.
+
+[33mcommit 53f210ea4190d0d14e833266ee0d1980ba536116[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Apr 1 22:26:13 2012 +0800
+
+    Change to 1 hour, not to mention the hours are wrong.
+
+[33mcommit 07611df74054107be7ed0310363374b894944a45[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Mar 28 23:16:11 2012 +0800
+
+    Update appcache.
+
+[33mcommit af2d4827cea7b360187ef8b3ef4ab542a33616ae[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Mar 28 23:15:45 2012 +0800
+
+    Fixes bug with too many toggle buttons, for every single nested level.
+
+[33mcommit 8858c36e81a107449b5dd2dbfb9032be3250b6e7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Mar 26 22:45:15 2012 +0800
+
+    Fixes another bug; /news is not cached when pressing Refresh button.
+
+[33mcommit 4a07b01976406521d49bbad15b5eb9148324e99d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Mar 26 22:34:26 2012 +0800
+
+    Update appcache.
+
+[33mcommit 1777418b41e8e5ba2cf156d545290e67e6ba18e7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Mar 26 22:34:06 2012 +0800
+
+    Fixes regression bug; loading indicator doesn't hide when tapping Reload button.
+
+[33mcommit f312d3fff0e781916b38d71bbddf46d893d4c0d3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 25 15:30:21 2012 +0800
+
+    Update appcache.
+
+[33mcommit 37ed8224211e4f52a2bcbc4ea9354d942ad9e868[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 25 15:20:19 2012 +0800
+
+    Speed up the appcache update, again.
+
+[33mcommit 8b0d6d7aa8574c612a1d1d9fa8680dd4714a6b92[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 25 14:57:14 2012 +0800
+
+    'More' for comments. Also some adjustments to the cache expiration of the responses.
+
+[33mcommit 7f6d96234c9819f09cf9d399ba051678ebb074a8[m
+Merge: ee12373 e1b1bb9
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 22 09:31:29 2012 +0800
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit e1b1bb9f7e5ab1ce2fb0727e03992db7c49e3476[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 22 09:30:47 2012 +0800
+
+    Update appcache.
+
+[33mcommit 6d97440ffd618df7651b2dcafa45a5b8876079cd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 22 09:30:26 2012 +0800
+
+    Experimental new icon.
+
+[33mcommit 57dd0f6f8ad27786b004c221af107a137c609693[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 22 09:30:13 2012 +0800
+
+    UglifyJS messed up the sequence, causing errors on Firefox.
+
+[33mcommit ee12373d5dcb8d598c9e2eb86a04eaba88e7d165[m
+Merge: a1525ed f10f76d
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 17 23:21:19 2012 +0800
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit f10f76d0fca664adc029244a50f8910dec181b96[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 17 23:19:54 2012 +0800
+
+    Use another (smart) method to speed up the update rate.
+
+[33mcommit 47705a0badf1c7a46ab222863721b6c0cd10700b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Mar 16 10:22:15 2012 +0800
+
+    Upgrade Amplify.Store
+
+[33mcommit a1525edb35041a2cd05d4e8e168a609b782dd199[m
+Merge: 2756571 4dc28fe
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 15 08:34:57 2012 +0800
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit 4dc28fef841f125692637bd8972ff38d0ce54116[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 15 08:34:18 2012 +0800
+
+    Update appcache.
+
+[33mcommit 7edcf98cfde343772e6e31cc43d0decbc4f2b764[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 15 08:33:12 2012 +0800
+
+    "Local" links point to Hacker News web site (non-mobile).
+
+[33mcommit 74ca1a8740d89fbdfdd1f031ec561e18048a8857[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Mar 15 08:30:46 2012 +0800
+
+    Extra stuff for poll questions. Basic formatting for now.
+
+[33mcommit 9ff615790746d38e572f3d5d0b817f0a868464c9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Mar 14 09:25:08 2012 +0800
+
+    s/scripts/templates
+
+[33mcommit 27565716a85c83c7eb1b1b24b8e20ca735620577[m
+Merge: 7603c98 2f92b47
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Mar 14 09:20:04 2012 +0800
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit 2f92b47a8017264454d66811abe7791e12667391[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Mar 14 00:19:24 2012 +0800
+
+    Upgrade Hogan.js, precompiled templates and very basic pluralization.
+
+[33mcommit ba46a56846096074638afb01b6d32c6060af6bb1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 21:42:08 2012 +0800
+
+    Only track for browsers that support appcache.
+
+[33mcommit 7603c98d5dc64fbc311e6eac316eccc488648e80[m
+Merge: d855c60 aa6d03e
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 20:24:38 2012 +0800
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit aa6d03e951d4d0cd541303a2611624f8b57bc2b7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 20:20:20 2012 +0800
+
+    Update appcache.
+
+[33mcommit 46b1a5575adafeec79ef2a36254b583d5f98b64a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 20:20:10 2012 +0800
+
+    Use GA to track how fast the app is updated to the latest version. Hopefully this works.
+
+[33mcommit 05113686f65909c61cf9293a5139a4498a811b16[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:56:51 2012 +0800
+
+    Re-remake scripts.
+
+[33mcommit 0a61e0521017f340e46574ff6c7e595498a6603c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:55:29 2012 +0800
+
+    10 seems to be the magic number.
+
+[33mcommit 8630ab2f7eec7e0c73aaf49c43309bea2729ad73[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:55:15 2012 +0800
+
+    Sometimes hash is undefined. Weird.
+
+[33mcommit 4d0d985c2f85b9ed173836a774605c35ac98b94f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:40:13 2012 +0800
+
+    Remake scripts.
+
+[33mcommit 582cb58b6bc35356761855cff18285505b3f75cb[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:39:45 2012 +0800
+
+    A little threshold for cancelling the touch.
+    Now uses only y-axis, tested on iOS that x-axis doesn't really matter. It might matter if say, the page can
+    scroll horizontally.
+
+[33mcommit 571491286ee309e19ccfe5682508ca8444385afd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 17:35:55 2012 +0800
+
+    Fixes regression with this known Safari bug 6fa79ce42310333cb94fd61a60ec10a69002b264
+
+[33mcommit 1aeb1594822befecf7aae1867dbaddd8842c9c5a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 11:07:32 2012 +0800
+
+    Just adding a class to toggle slow animations...
+
+[33mcommit ab9f223e5109b389283eb90dbb020c02d551ce93[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 11 10:04:19 2012 +0800
+
+    Setting timeout to make hiding the location bar faster.
+
+[33mcommit d855c606135eb6672c61e636d6270a80e714d948[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 10 18:52:30 2012 +0800
+
+    Theoretical perf tweak for the onload fade.
+
+[33mcommit 44dd2ad65419f61279d596fe78b4d1cf86c5e502[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 10 11:03:28 2012 +0800
+
+    Update appcache.
+
+[33mcommit 705c1e986bf90155c62d061fb9389a575be2abec[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 10 11:00:53 2012 +0800
+
+    Ooops, s/available/unavailable
+
+[33mcommit 93983ece98ceccda9a5afb21ae0d6ada5a76c546[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 10 10:57:47 2012 +0800
+
+    Better error handling.
+
+[33mcommit ed0c6a4a1dc4a130659b4b96f1494f9c4b5a6446[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Mar 6 08:06:51 2012 +0800
+
+    Removes this isStandalone var
+
+[33mcommit 186fbde0432b449d4845b4edb294484267b0903e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 4 09:53:05 2012 +0800
+
+    Update appcache.
+
+[33mcommit 5d44a4bcdde2d1230b38b18348acc7ed5311523a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Mar 4 09:52:32 2012 +0800
+
+    Programmatically update the app cache on page load. Mobile Safari is getting on my nerves.
+
+[33mcommit 1ffc19fa7e32b1bfe4ac609ebc0b4fd2b584ae36[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Mar 3 16:44:59 2012 +0800
+
+    A little Node.js script as a local dev server.
+
+[33mcommit 72779f18d9da5c5e83a1167cae16b4731834d52c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Feb 27 20:03:56 2012 +0800
+
+    Update appcache.
+
+[33mcommit 163f4d41fe7e4794a3193dba89c11a0537c76d3c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Feb 25 16:30:33 2012 +0800
+
+    Some magic to show the address bar when tap on header.
+
+[33mcommit 3e7aaf2735771a27f5a044889fc4bc98f4052eb2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Feb 25 13:45:48 2012 +0800
+
+    Try to get rid of that location bar as fast as possible.
+
+[33mcommit b9c0b236c743e2a6e2844f6be433aa317bb768f8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Feb 21 08:25:44 2012 +0800
+
+    80 seems to be the magic number.
+
+[33mcommit 48def55077655a3c59b9a9579fc0beaac25c9852[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Feb 20 22:29:58 2012 +0800
+
+    Try out Muscula to log JS errors.
+    And '_trackPageLoadTime' is not needed anymore in GA (enabled by default).
+
+[33mcommit 7831bcb1e7e7043dcc9044f9a93e7b619957389c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Feb 18 11:26:58 2012 +0800
+
+    Update appcache.
+
+[33mcommit 8984b95f9ad7f6689e31bf099e7740095c74c091[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Feb 18 11:25:45 2012 +0800
+
+    Not affiliated with Hacker News or YCombinator.
+
+[33mcommit 5d41e6b9754ab50fa65bd9f81c37abafda1b9464[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Feb 18 11:12:24 2012 +0800
+
+    Clear 'previous' story title when loading a new one.
+
+[33mcommit cee3ec8c9b04e4053b2006b79bfde69f28492da5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Feb 17 22:57:24 2012 +0800
+
+    Be nice to other people's efforts.
+
+[33mcommit 758a7d7f643b943f1433c18bad93bdc579c7cf8e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Feb 14 22:39:17 2012 +0800
+
+    Much smaller image, plus gradient image instead of box shadow.
+
+[33mcommit 6dad74efc4b3ea8087386f1d9a8eb98ddae0e414[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Feb 14 09:20:07 2012 +0800
+
+    Link to project page.
+
+[33mcommit 8039f35175fbcbfd0798c38899238a4fac658faf[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Feb 13 22:11:13 2012 +0800
+
+    Some explanation on its features.
+
+[33mcommit abfe80048119ebc56fd5d8856f9622c6bb17f9db[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Feb 13 20:00:58 2012 +0800
+
+    Cook up a fancy landing page, just for fun.
+
+[33mcommit 94eb06562603f32e91c1a19dc2af4611f1283ecd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 22:36:26 2012 +0800
+
+    Update README.
+
+[33mcommit 1d7a99bea9037ed02744f10e65778adb66b2a33b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 22:30:50 2012 +0800
+
+    Screenshots.
+
+[33mcommit f82e1c67a677ce0b74c1625c91158fe22d31c789[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 17:01:55 2012 +0800
+
+    Update appcache.
+
+[33mcommit fd025ebe7bbcebe3937efec6514ecb33f1d54f7f[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Sun Feb 12 16:59:46 2012 +0800
+
+    Use node to concat & compress JS.
+
+[33mcommit 40c322dd34595c24b4c20b9955f4f4208f52155f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 16:44:10 2012 +0800
+
+    Simple collapsible (sub) comments for really long comments list.
+
+[33mcommit 15c5f7cd918b77e08db942788c6ecf583fc801c6[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 11:33:09 2012 +0800
+
+    Don't think the 'Loading...' text in navigation bar is a standard in iOS apps.
+
+[33mcommit f5e0165a17875244ccbe0dfe6de1a432a4b42d17[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 10:01:26 2012 +0800
+
+    Upgrade scripts.
+
+[33mcommit 0b2bec140b5c236c6d84f48d9083155b922fb139[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Feb 12 09:49:22 2012 +0800
+
+    Fixes wrong width for disclosure icon.
+
+[33mcommit 9828f25101a9e3af4f9f493a3da65811f910c8a7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Jan 4 22:29:25 2012 +0800
+
+    WTF 2001?!!
+
+[33mcommit 979a91ff392e1978b7e92689e47daea918de48ca[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Jan 2 22:54:01 2012 +0800
+
+    Preload & cache /news2 when requesting /news to prevent discrepancies.
+
+[33mcommit a26942d18b867e54ea5ed128ab21b42d3d4619c8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Dec 31 16:23:05 2011 +0800
+
+    Update appcache.
+
+[33mcommit 91ce60ec8feac39a630d0a786855fe4fa11fee13[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Dec 30 18:01:05 2011 +0800
+
+    Combined two `slide` calls to one, and some perf changes.
+
+[33mcommit 1b3ab9cc56747e88f8a836e251037c225707622c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Dec 30 17:38:44 2011 +0800
+
+    Update README for Hogan.
+
+[33mcommit 6a9bf6cd815e330544293faab37100c471ddde41[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Dec 30 01:44:24 2011 +0800
+
+    Yet another strictness.
+
+[33mcommit 8df9315f020f625ffc153154462fdc85d6467744[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Dec 30 01:26:33 2011 +0800
+
+    Switch from mustache.js to hogan.js, plus changes as hogan seems more 'strict'.
+
+[33mcommit be3bafa01ea39dc302f5809ab0c94dbb5e37ed2c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 29 21:54:57 2011 +0800
+
+    iOS seems to have a slightly different timing for the opacity, I think.
+
+[33mcommit 6ec34ef58973858af8a2bf799dbe4bcf11c58b20[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 29 18:58:21 2011 +0800
+
+    Got rid of <article> to prevent Mobile Safari from 'Reader'ify it, which makes the URL bar goes away slower.
+
+[33mcommit 3db1ef1adf892950568c115b0e6824c1855e25aa[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 29 17:08:07 2011 +0800
+
+    Fixes navbar image when in landscape mode.
+
+[33mcommit 27e7c0dbbb90eedfd43cf4fe260fd04ae302b027[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 29 16:58:42 2011 +0800
+
+    Much more robust persistence for URL hash and scroll position for any views.
+
+[33mcommit 2e55c4aa357dbaaaffde017b048bbde59fb1e803[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 27 20:03:22 2011 +0800
+
+    Slightly faster fade in
+
+[33mcommit 35cfc610a1276422bfc73c0b5666e5db8da19bfc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 27 19:04:26 2011 +0800
+
+    Much better fade in. Finally realize why Gmail (mobile) does this too.
+
+[33mcommit 99245e92f1c5aebc5f0fb392f2b431bb825be05f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 27 18:56:30 2011 +0800
+
+    Better scrollTop and fade in the whole app so that the 'jumping' bug won't be visible.
+
+[33mcommit 2bf2a53d6d968cd45247b52cb8f873f1ece8f3db[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 26 16:30:53 2011 +0800
+
+    Hopefully more responsive tap feedback for links.
+
+[33mcommit bcece12d063dbd4a1cd8a4057156e079e83c6779[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 26 12:14:06 2011 +0800
+
+    No longer web-app-capable. Embrace the web, become a web AND native app hybrid.
+
+[33mcommit a5b5e447c95e725808d57be4b5e1f50abceb1609[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 25 23:34:54 2011 +0800
+
+    Fixes regression on missing x/y as Mobile Safari returns e.target but not e.clientX/Y
+
+[33mcommit 6fa79ce42310333cb94fd61a60ec10a69002b264[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 25 23:01:33 2011 +0800
+
+    - Fixes Safari back-button from different domain bug (https://github.com/cowboy/jquery-hashchange/issues/2)
+    - Fixes tappable click event not firing when Mobile Safari does fancy animation, AND firing from the wrong 'clickTarget'.
+
+[33mcommit f5fa8061ac3f85b5084b88ea093309fc6e7961a3[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 25 18:03:59 2011 +0800
+
+    Fixes tappable bug with click events not running.
+
+[33mcommit 00cf6ff8d2f71e4b6d699015d19ab023dde2684a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 25 18:03:07 2011 +0800
+
+    Location fixes.
+
+[33mcommit 6a449a2bee8c7f20ef5a61e05073640dbfdcf755[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 25 18:02:53 2011 +0800
+
+    No longer open in new window.
+
+[33mcommit 098532ba95ece494e1116637acb998d84a3a80d8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 22 08:32:19 2011 +0800
+
+    Update appcache.
+
+[33mcommit 40ef399ab2230ad000bc9d0259ce842901574000[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 20 21:09:36 2011 +0800
+
+    Update tappable to ignore right clicks.
+
+[33mcommit 5a61a3db49740602a6158951d8fa3a5635ac5338[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 19 00:09:03 2011 +0800
+
+    More accurate images.
+
+[33mcommit 2801e71ed0aeb704038cfb8ef438c88a99f92821[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 18 17:09:33 2011 +0800
+
+    Fixes reload icon displacement.
+
+[33mcommit 6277a46253a520ce3677e1e9d7c36b29c7ded533[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 18 17:00:14 2011 +0800
+
+    Remember scroll positions.
+
+[33mcommit 807ffc066ee6cb90a01201cd7ed805f92fe3bc8b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sat Dec 17 22:14:33 2011 +0800
+
+    Only run GA on cheeaun.github.com domain
+
+[33mcommit 476eaca53761a5be3ac528bdab19fd9e1c031180[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Dec 16 09:36:19 2011 +0800
+
+    using :active loses the inactive state when touch is out of tappable boundary.
+
+[33mcommit 0b78331301a0a3ba2302eeaa6a8d8b9454137a56[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 20 08:21:56 2011 +0800
+
+    cursor pointer for More link
+
+[33mcommit f24ce38ae8b35fc528bb246c64ceab3d0448d157[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 20 08:19:13 2011 +0800
+
+    Updated tappable to map touchstart/move/end to mouseup/move/down.
+
+[33mcommit aaeaab2f76504e66e9b38bb1cf055fa3535a13ab[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 15 20:48:06 2011 +0800
+
+    Startup image pointing to wrong file (name).
+
+[33mcommit a674d0dea7197789ef1cba0f50177dc02b6ca316[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 14 23:49:24 2011 +0800
+
+    Update appcache
+
+[33mcommit 49b0ed243b32ef03862ebfb417d845eb96a68f6f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 14 08:16:43 2011 +0800
+
+    Use :active for faster visual feedback.
+
+[33mcommit 67d5e7d779e041583e7d2e9a282f0be1a3a7c96c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 14 08:14:04 2011 +0800
+
+    Persist views in standalone mode.
+
+[33mcommit 9264a2eaf551f28b18ce987e3421953e814ebbb8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 13 23:54:15 2011 +0800
+
+    New director.
+
+[33mcommit f2027e27151bdcda73635e8986dfee82b8d4a4d2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Dec 13 23:33:56 2011 +0800
+
+    Shorten GA code.
+
+[33mcommit 13baa07d6ae3f003207b9a6209c8cea10cae2c61[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 12 08:19:09 2011 +0800
+
+    Update appcache.
+
+[33mcommit e9009a63afee8e3c5887edcb1f04dd6562bf77a1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 12 08:17:09 2011 +0800
+
+    Google Analytics.
+
+[33mcommit b11cb591be2c3e8dd7264feef019422411aec06b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:14:03 2011 +0800
+
+    Forgot the startup images.
+
+[33mcommit 1e8acc86bbb8cfbf3e290b9a749c0d3164196ac5[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:13:45 2011 +0800
+
+    Add appcache.
+
+[33mcommit 9686543bfd934eb74a5c12b14d0436146d3f60e1[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:13:20 2011 +0800
+
+    no y-
+
+[33mcommit 54e95c0d9610e10c852a2fc164be8e5ac3d27a65[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:02:22 2011 +0800
+
+    Add startup images.
+
+[33mcommit 7bf87815211badcaf6325662a167aa92f711370f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:02:14 2011 +0800
+
+    Update link to icons.
+
+[33mcommit 0a2ff21079c648fa7aeea035a5d173f759246bf8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:01:35 2011 +0800
+
+    No need prepend y-
+
+[33mcommit 98d671add6a01ce7a117252c18affbcfd437c2df[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 11 14:01:16 2011 +0800
+
+    No word wrap for pre's
+
+[33mcommit fad553b1157a34583d78e8218c99d1b0b65e8be8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 8 23:56:19 2011 +0800
+
+    - All long words should break.
+    - Fixes inaccurate colors.
+    - window.open can't work for standalone mode, fix is in.
+
+[33mcommit d9bd3247f58c13e8c703febf9cd562ac74179d14[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 8 22:57:03 2011 +0800
+
+    Larger shadow for icon.
+
+[33mcommit fa0158a53ba9ed3abe6858b61fbd08ed55723e97[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 8 22:54:56 2011 +0800
+
+    Darker loading text for striped background.
+
+[33mcommit 2626c4cab53254a43efe9d6c0d4f3df6ca4b1886[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 8 09:34:39 2011 +0800
+
+    Another iteration of icons.
+
+[33mcommit 161a2abf5a62f310f9019dfa2eb1178c252f94c4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Dec 8 09:34:27 2011 +0800
+
+    Fixes missing loading indicator sometimes.
+
+[33mcommit 220b7194b5e0150826f853c67090296775667805[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 7 23:43:20 2011 +0800
+
+    Cached news2 loads way too fast. Cheat a little here, make it slow.
+
+[33mcommit 0d7a4393bf181362a610b0d1f9bebd7f8e4fdb52[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 7 23:42:46 2011 +0800
+
+    This position relative seems to make Mobile Safari
+    'uncache' it when scrolling. The 'more' text becomes
+    hidden when scrolling, then appears when scroll ends.
+
+[33mcommit 381cac4670f9e1f9f8579efde3cd14a964e294bc[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Dec 7 23:15:53 2011 +0800
+
+    Flip animation for About view. So smooth.
+
+[33mcommit 179246216f01a1c5c9d64c21c035b9486d60e4ec[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 5 23:51:37 2011 +0800
+
+    Refresh button, to well, refresh.
+
+[33mcommit ba34d5c3d15d03e72b6531d6bd49f29a207686cd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Dec 5 09:17:01 2011 +0800
+
+    Load more link for /news2
+
+[33mcommit 9f54bf6acc4cea87d71361110bfe509e12524929[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 4 22:55:47 2011 +0800
+
+    - Fixes About view causing extra scrolling
+    - Fixes clicking header button also scrolls up the view
+
+[33mcommit fa19b57fc8eb75746009501060815217f1d91c9e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Dec 4 18:45:30 2011 +0800
+
+    - More asthetic adjustments
+    - About view
+    - Better sliding animation
+    - Touch icon and favicon
+
+[33mcommit 1fa5a515703a6313e1566ece18c71edc91c1070b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Thu Nov 24 07:50:06 2011 +0800
+
+    s/question/content (API change)
+
+[33mcommit 569998375c68e0ccfcab4d8be48d113a7c4bb8da[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Nov 23 23:31:55 2011 +0800
+
+    Update hnapi.js
+
+[33mcommit b6e8b602cb34abb1ab63ce2d4f7d20c59a4c4c83[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Nov 23 07:45:55 2011 +0800
+
+    Update director. / now works again.
+
+[33mcommit 6d9e1b94fb55400c60fac27417cb00f628151292[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 20 20:49:32 2011 +0800
+
+    No need scroll if it's already at the top.
+
+[33mcommit 9bd44a1680d529776de68477fddc1759a267bba9[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 20 18:43:43 2011 +0800
+
+    Use local image for ycombinator logo. Retina-ed.
+
+[33mcommit 7ec339991ca03e92517b20222a91e0592b6c7794[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 20 18:29:09 2011 +0800
+
+    No more box magic.
+
+[33mcommit 6ae0a8f31c20d19efdd4229ee9bb819059a553c2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 20 17:14:53 2011 +0800
+
+    Activity indicators.
+
+[33mcommit f7f5c441f2b71596d94b9ed1c7fd2ae2fce59ee2[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Nov 18 22:52:50 2011 +0800
+
+    Point to specific header.
+
+[33mcommit 8cecd84944527ff7132f10e1d47348bec1a1d9d7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Nov 18 22:50:59 2011 +0800
+
+    Little adjustments for director.
+
+[33mcommit 343eb0eadfa2190920714bc403591ee64be146a8[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Fri Nov 18 09:31:28 2011 +0800
+
+    Tiny CSS fixes.
+
+[33mcommit baa477a6961c5a75b92e237fd96f479b82e9ac52[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 23:45:00 2011 +0800
+
+    Forgot to remove old SugarSkull
+
+[33mcommit 505eba36c3ebed0f85f5e1939f06ce94c82a647e[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 23:41:34 2011 +0800
+
+    Update README.
+
+[33mcommit d5fca26a20faa5981da4777d86f6ff12d7ed3d3d[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 23:35:14 2011 +0800
+
+    s/hntools/scripts
+
+[33mcommit 62bef868e197fe78466c75645be9407972c69398[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 23:18:30 2011 +0800
+
+    Fixes header stuff when in landscape mode.
+
+[33mcommit 38943c44c2c7d99d64e97d5ecb606f5baf0c6f51[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 22:15:39 2011 +0800
+
+    Finally scrolling fix without scrollfix JS
+
+[33mcommit 6e621b1cbc75f2ef29ed0c12e8fe0294eec086cc[m
+Author: U-cheeaun-PC\cheeaun <cheeaun@cheeaun-PC.(none)>
+Date:   Thu Nov 17 20:58:27 2011 +0800
+
+    Move files into folders and combine+compress JSes.
+
+[33mcommit 8bc6c0794057b79669dee7c7e0a9475fcb4e64e4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Nov 16 23:24:39 2011 +0800
+
+    Some CSS tricks to fake the fading animation on header elements when sliding.
+
+[33mcommit ee6bc058a553b7adec923b7cafc9fdabf0d29549[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 23:16:48 2011 +0800
+
+    Links in comments launch in new window.
+
+[33mcommit 5d3d08614d3e0dbe22ce74664531ead566eda4ec[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 23:16:27 2011 +0800
+
+    Visited links, faded.
+
+[33mcommit cc4bfb625eb92b740e25de2bb3a4928accedf150[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 09:24:26 2011 +0800
+
+    Remove osfix
+
+[33mcommit ed10c70b8a7c7cebf40fa69ada200a3ef3d24848[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 08:31:14 2011 +0800
+
+    Slight adjustments.
+
+[33mcommit 63386c6b4e4c54c6b35f008bbf30fc8981b5455b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 08:12:39 2011 +0800
+
+    Slight perf fixes.
+
+[33mcommit 7e8a756ea36469da622cff46f96b4a7324f0475b[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Nov 15 00:50:50 2011 +0800
+
+    Fixes the post formatting based on its type and link.
+
+[33mcommit a3b7943f8d62381d922431e93e56891b2657ec1f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Nov 14 23:20:57 2011 +0800
+
+    Simplify styles.
+
+[33mcommit ddbf791aaa5295c9965a3cbb698a4bb10b4c3f67[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Nov 14 23:20:46 2011 +0800
+
+    Fixes no comments.
+
+[33mcommit ec4673e4afcbd26532a686d85ada99716e470d44[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Nov 14 22:37:05 2011 +0800
+
+    Fixes for use cases when links point to Hacker News itself and when there's no comments.
+
+[33mcommit 2ab55f12d68b7c5fc4a28be69fd4093ae5c57a0e[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Nov 14 00:12:03 2011 +0800
+
+    Styles for header buttons.
+
+[33mcommit 7bbcd24b120beb5ac334dd6d0215bf4241f4b0a7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 13 23:55:25 2011 +0800
+
+    Home = /news
+
+[33mcommit 58f8e3f425769af526b149c4cc6b3b9d05f933bd[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 13 22:59:37 2011 +0800
+
+    Latest version of SugarSkull f-ed up the root /
+
+[33mcommit 22c3301375560a0bc64b76f9ae3638e8c033948f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 13 22:06:24 2011 +0800
+
+    Update README
+
+[33mcommit c1623a401663d583b67aee5ecc3230d444da405f[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 13 21:43:37 2011 +0800
+
+    Major revamp.
+
+[33mcommit 26e4b52a1e48c8fe04adbfcdba1d645bd8dd0b93[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Nov 13 21:41:56 2011 +0800
+
+    s/suport/support
+
+[33mcommit 57d25a6bd0aed918b55ce6957f19aa84f4135899[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 19 09:29:03 2011 +0800
+
+    Only scroll to top if device supports orientation (bad assumption, oh well). Plus perf fixes.
+
+[33mcommit 5ba1170045b65e3f50aadd7bd6b78821868f7c21[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Wed Oct 19 08:43:31 2011 +0800
+
+    Add numbering and fixes to 'special' news. Revert back to api.ihackernews.com
+
+[33mcommit b4a6cddaa5baa00c2fea81c571d8dc9b1f2d380a[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Tue Oct 18 09:34:49 2011 +0800
+
+    Use back ScrollFix, and more fixes to improve tapping & scrolling behaviors.
+
+[33mcommit 01ea82698be9b3ffbec648caf0359bf043ac9ac4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 23:36:29 2011 +0800
+
+    HN favicon yo.
+
+[33mcommit cd4760737e741e9efabb6b5a56316d5e7ccfc00c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 23:30:51 2011 +0800
+
+    Move domain down one line. Widon't the story titles.
+
+[33mcommit 3747959ba8c67484a5f4911eece25116355894a4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 22:47:23 2011 +0800
+
+    Use tappable because more reliable and responsive.
+
+[33mcommit 15135655c55b1d10f0d56c38204762523c0de738[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 09:33:05 2011 +0800
+
+    better domain display.
+
+[33mcommit 000bf5b0e8fc4481b63c847d09a8220112383f18[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 00:25:41 2011 +0800
+
+    Open links in new tab.
+
+[33mcommit 32c56ec25f77a263173b38dd4133fc7ff5b0406c[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Mon Oct 17 00:14:47 2011 +0800
+
+    Hide the fake 'More' link.
+
+[33mcommit 6fea6130c8a433cca2036760322d9c5fde608ac7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 16 23:45:03 2011 +0800
+
+    touchcancel too.
+
+[33mcommit 512deddf84a23a5b4af6561d4bb907adebdd97ab[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 16 23:26:46 2011 +0800
+
+    Don't use :active; it works but it's "slow". Custom 'tap' event for now.
+
+[33mcommit 09fc4f0f3e24c1bd1e3da01af62d027cacaaad6d[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 16 22:41:42 2011 +0800
+
+    Switch to using @cubiq 's OverflowScrollingFix
+
+[33mcommit 39f80733ae277bfe54d3346992d82c3d196b09a4[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 16 20:22:48 2011 +0800
+
+    Use http://hndroidapi.appspot.com/ API plus YQL. Also, fixes orientationchange/resize event binding.
+
+[33mcommit 21919462ade38f7625be98fc439b7529c0d96fe7[m
+Author: Lim Chee Aun <cheeaun@gmail.com>
+Date:   Sun Oct 16 19:56:37 2011 +0800
+
+    Initial commit.
